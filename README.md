@@ -5,10 +5,15 @@ Application which retrieves data from Webserver (via Retrofit), saves it to loca
 
 *[Coingecko api](https://www.coingecko.com/tr/api/documentation)*
 
-| App Screen  |
-| -------------  |
-| ![](https://github.com/tugrulkara/CryptoCurrencyMvvm/blob/3be7a2846fc4c7823cbb7f74aa87fa37c15ce147/screen.gif) |
 
+<table>
+  <tr>
+    <td>App Screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/tugrulkara/CryptoCurrencyMvvm/blob/3be7a2846fc4c7823cbb7f74aa87fa37c15ce147/screen.gif" width=270 height=480></td>
+  </tr>
+ </table>
 
 ## Libraries Used
 
