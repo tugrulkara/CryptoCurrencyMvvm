@@ -7,7 +7,7 @@ Application which retrieves data from Webserver (via Retrofit), saves it to loca
 
 | App Screen  |
 | -------------  |
-| ![](https://github-production-user-asset-6210df.s3.amazonaws.com/74429693/239751421-67c5f626-ac47-4326-92f9-c90e102e647e.gif) |
+| ![](https://github.com/tugrulkara/CryptoCurrencyMvvm/blob/3be7a2846fc4c7823cbb7f74aa87fa37c15ce147/screen.gif) |
 
 
 ## Libraries Used
