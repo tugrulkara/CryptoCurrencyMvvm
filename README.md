@@ -1,6 +1,7 @@
 # CryptoCurrencyMvvm
 
 Application which retrieves data from Webserver (via Retrofit), saves it to local database (via Room) and get from it if user is offline. It pulls data from API every 10 minutes. 
+
 *pulls data from API again when swipe refresh*
 
 *[Coingecko api](https://www.coingecko.com/tr/api/documentation)*
